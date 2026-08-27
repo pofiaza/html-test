@@ -1,3 +1,7 @@
-.h1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+h1 {
+    font-family: "dejavu sans mono", "droid sans mono", consolas, monaco, "lucida console", "courier new", courier, monospace, sans-serif;
+}
+
+.header {
+    align-content: center;
 }
