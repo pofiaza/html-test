@@ -1,8 +1,23 @@
-h1 {
+body {
     font-family: "dejavu sans mono", "droid sans mono", consolas, monaco, "lucida console", "courier new", courier, monospace, sans-serif;
+}
+
+h1 {
     margin-top: 60px;
     text-align: center;
 }
+
+
+.left-side {
+    float: left;
+    width: 48%;
+}
+
+.right-side {
+    float: right;
+    width: 48%;
+}
+
 
 /*body {*/
 /*}*/
