@@ -1,8 +1,12 @@
 h1 {
     font-family: "dejavu sans mono", "droid sans mono", consolas, monaco, "lucida console", "courier new", courier, monospace, sans-serif;
-    text-align: center;
     margin-top: 60px;
 }
+
+body {
+    text-align: center;
+}
+
 
 /*.header {*/
 /*    align-content: center;*/
