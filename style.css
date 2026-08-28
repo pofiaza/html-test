@@ -22,6 +22,11 @@ h1 {
     clear: both;
 }
 
+.arc-reactor {
+    width: 100px;
+    height: 100px;
+    margin-left: 50px;
+}
 /*body {*/
 /*}*/
 
