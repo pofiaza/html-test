@@ -36,6 +36,7 @@ h1 {
     display: flex;
     gap: 20px;
     justify-content: center;
+    width: 100%;
 }
 
 .icon-container img {
